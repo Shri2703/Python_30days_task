@@ -16,6 +16,6 @@ def get_greeting():
     else:
         return "Good night!"
 
-# Get and print the greeting
+
 greeting = get_greeting()
 print(greeting)
