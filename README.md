@@ -1,3 +1,3 @@
 
-# Python_30days_task...........
+# Python_30days_task..
 
